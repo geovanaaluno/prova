@@ -8,3 +8,5 @@
 É a união de duas branches
 # 5)O que é pull?
 É a atualização do repositório online
+# 6)O que é branch?
+São ramificações 
