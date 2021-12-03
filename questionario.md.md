@@ -10,3 +10,5 @@
 É a atualização do repositório online
 # 6)O que é branch?
 São ramificações 
+# 7)O que é pull request?
+É um pedido ao dono do repositório para que ele compartilhe seu código
