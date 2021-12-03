@@ -1,2 +1,2 @@
-1)O que é clone?
-É como um branch de um repositório online em um repositório local
+# 1)O que Ã© clone?
+Ã‰ como um branch de um repositÃ³rio online em um repositÃ³rio local
