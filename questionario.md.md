@@ -4,3 +4,7 @@
 É um grupo de alterações
 # 3)O que é repositório?
 É a pasta do projeto
+# 4)O que é marge?
+É a união de duas branches
+# 5)O que é pull?
+É a atualização do repositório online
