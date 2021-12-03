@@ -12,3 +12,7 @@
 São ramificações 
 # 7)O que é pull request?
 É um pedido ao dono do repositório para que ele compartilhe seu código
+# 8)O que é fork?
+É como se fosse um clone dentro do github
+# 9)O que é VCS?
+É um sofware de controle de versão
